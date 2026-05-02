@@ -1,2 +1,2 @@
-2.6
+2.7
 https://raw.githubusercontent.com/kskncem-cmd/SmartGuard/main/firmware/firmware.bin
